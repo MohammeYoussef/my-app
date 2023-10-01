@@ -12,6 +12,7 @@ export default function Services() {
             <h1>Service</h1>
             <p>service</p>
 
+
             <div className="row">
                 <div className='service_form'>
                     <h5 className='title'>will change</h5>
